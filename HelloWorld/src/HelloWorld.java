@@ -14,7 +14,7 @@ public class HelloWorld {
 	public HelloWorld() {
 		// TODO Auto-generated constructor stub
 
-			System.out.println("Hello 1!");
+			System.out.println("Hello 12!");
 	}
 
 	/**
